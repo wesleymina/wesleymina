@@ -1,3 +1,4 @@
+<!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
 <img align="right" width="600" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/assinatura_video.gif" alt="Assinatura de e-mail" />
 
 <p align="justify">O limite de uma pessoa
@@ -9,7 +10,7 @@ Entretanto a denominada porta
 Esperança também se fecha.
 Portanto, insistir e confiar não
 próprio potencial torna-se o
-pensamento que me dá quadro
+pensamento que me dá forças
 para acreditar na existência de
 uma chave correta.</p>
 
@@ -25,6 +26,7 @@ Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 
 [<img align="left" alt="AlfredDagenais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="AlfredDagenais | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]<br><br>
 
+<img alt="Wesley Mina's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymina&layout=compact&hide_border=true" />
 <p align="center"><b>"Alguns desperdiçam ondas no desiquilíbrio perdendo confiança na pausa do
 tempo. <br>Outros estão mais preparados quando elas retornam." (Minarketing)</b></p>
 
