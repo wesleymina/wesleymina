@@ -15,7 +15,7 @@ uma chave correta.</p>
 
 <img align="right" alt="Wesley Mina Github Stats" src="https://github-readme-stats.vercel.app/api?username=wesleymina&show_icons=true&hide_border=true" />
 
- 🔭 Perfil? Crítico 🌱 Hobby? Escrever 👯 Vício? Games 🤔 Paixão? Estudo 💬 Orgulho? Pais 📫 Grato? Saúde 😄 Regra? Disciplina ⚡ Objetivo? Carreira ⚡ Sonho? Legado ⚡ Mais? Conversemos<br>
+Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 🎓 Orgulho? Pais 👨‍👩‍👦‍👦 Grato? Saúde 💪🏼 Regra? Disciplina 👮🏽 Objetivo? Carreira 👨🏽‍💻 Sonho? Legado 💡 Mais? Conversemos 💬<br>
 
 ### Onde me encontrar?
 
