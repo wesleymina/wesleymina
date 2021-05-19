@@ -20,18 +20,19 @@ Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 
 
 ### Onde me encontrar?
 
-[<img align="left" alt="google.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AlfredDagenais | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AlfredDagenais | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AlfredDagenais | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]<br><br>
+[<img align="left" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Wesley Mina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Wesley Mina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]<br><br>
 
-<img alt="Wesley Mina's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleymina&layout=compact&hide_border=true" />
-<p align="center"><b>"Alguns desperdiçam ondas no desiquilíbrio perdendo confiança na pausa do
-tempo. <br>Outros estão mais preparados quando elas retornam." (Minarketing)</b></p>
+<p align="center"<b>"Alguns desperdiçam ondas no desiquilíbrio perdendo confiança na pausa do tempo. <br>Outros estão mais preparados quando elas retornam." (Minarketing)<br><img align="center" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="center" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="center" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></b></p>
 
-[website]: https://www.google.com.br
-[twitter]: https://www.google.com.br
-[facebook]: https://www.google.com.br
-[instagram]: https://www.google.com.br
-[linkedin]: https://www.google.com.br
+  
+[website]: https://www.minarketing.com.br
+[twitter]: https://twitter.com/wesleyfmina
+[facebook]: https://pt-br.facebook.com/wesleyfmina
+[instagram]: https://www.instagram.com/wallpapersvivos/
+[linkedin]: https://curriculo.minarketing.com.br
