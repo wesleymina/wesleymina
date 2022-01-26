@@ -1,5 +1,5 @@
 <!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
-<img align="right" width="600" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/assinatura_video.gif" alt="Assinatura de e-mail" />
+<img align="right" width="600" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
 
 <p align="justify">O limite de uma pessoa
 corresponde ao caminho que
@@ -35,4 +35,4 @@ Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 
 [twitter]: https://twitter.com/wesleyfmina
 [facebook]: https://pt-br.facebook.com/wesleyfmina
 [instagram]: https://www.instagram.com/wallpapersvivos/
-[linkedin]: https://curriculo.minarketing.com.br
+[linkedin]: https://www.linkedin.com/in/wesleymina/
