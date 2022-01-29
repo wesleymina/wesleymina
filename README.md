@@ -1,9 +1,9 @@
 <!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
-[<img align="center" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[Onde encontrar...Wesley Ferreira Mina? ><img align="center" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="Wesley Mina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Wesley Mina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] >Onde encontrar...Wesley Ferreira Mina?<br><br>
+[<img align="center" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] <br><br>
 
 <img align="right" width="500" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
 <p align="justify">O limite de uma pessoa
