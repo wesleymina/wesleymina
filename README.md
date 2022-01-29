@@ -13,22 +13,21 @@ pensamento que me dá forças
 para acreditar na existência de
 uma chave correta.</p>
 
-<img align="right" alt="Wesley Mina Github Stats" src="https://github-readme-stats.vercel.app/api?username=wesleymina&show_icons=true&hide_border=true" />
+[<img align="center" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Wesley Mina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Wesley Mina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]<br><br>
 
-Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 🎓 Orgulho? Pais 👨‍👩‍👦‍👦 Grato? Saúde 💪🏼 Regra? Disciplina 👮🏽 Objetivo? Carreira 👨🏽‍💻 Sonho? Legado 💡 Mais? Conversemos 💬<br>
+<!-- <img align="right" alt="Wesley Mina Github Stats" src="https://github-readme-stats.vercel.app/api?username=wesleymina&show_icons=true&hide_border=true" /> -->
 
-### Onde me encontrar?
-
-[<img align="left" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Wesley Mina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Wesley Mina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Wesley Mina | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]<br><br>
+<p align="center">Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 🎓 Orgulho? Pais 👨‍👩‍👦‍👦 Grato? Saúde 💪🏼 Regra? Disciplina 👮🏽 Objetivo? Carreira 👨🏽‍💻 Sonho? Legado 💡 Mais? Conversemos 💬<br></p>
 
 <p align="center"<b>"Alguns desperdiçam ondas no desequilíbrio perdendo confiança na pausa do tempo. <br>Outros estão mais preparados quando elas retornam." (Minarketing)<br><img align="center" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
 <img align="center" alt="Photoshop" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/photoshop.png" />
 <img align="center" alt="Illustrator" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/illustrator.png" /></b></p>
 
+<!-- ### Onde me encontrar?-->
   
 [website]: https://www.minarketing.com.br
 [twitter]: https://twitter.com/wesleyfmina
