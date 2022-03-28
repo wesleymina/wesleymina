@@ -13,7 +13,7 @@ minhas ideias e a realidade é o
 estudo atrelado ao empenho.
 Entretanto a denominada porta
 Esperança também se fecha.
-Portanto, insistir e confiar não
+Portanto, insistir e confiar no
 próprio potencial torna-se o
 pensamento que me dá forças
 para acreditar na existência de
