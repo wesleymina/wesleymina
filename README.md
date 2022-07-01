@@ -1,6 +1,6 @@
 <!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
 
-[<img align="left" src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="250" />](https://open.spotify.com/user/223z2erxpsvvicijn6b4h46uy)
+[<img align="left" src="https://now-playing-alfreddagenais.vercel.app/api/spotify-playing" alt="Alfred Dagenais Spotify Playing" width="280" />](https://open.spotify.com/user/223z2erxpsvvicijn6b4h46uy)
 
 [Onde encontrar...Wesley Ferreira Mina? ><img align="center" alt="Site Currículo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="Wesley Mina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
