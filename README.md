@@ -1,5 +1,5 @@
 <!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
-<img align="right" width="450" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
+<img align="right" width="400" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
 <p align="justify">O limite de uma pessoa
 corresponde ao caminho que
 deseja seguir. A linha que divide
