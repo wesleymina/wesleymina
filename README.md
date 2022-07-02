@@ -1,6 +1,5 @@
 <!-- Curtiu o perfil né? kk Fique a vontade para copiar =) -->
-<img align="right" width="390" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
-<p align="justify">O limite de uma pessoa
+<p align="center">O limite de uma pessoa
 corresponde ao caminho que
 deseja seguir. A linha que divide
 minhas ideias e a realidade é o
@@ -11,7 +10,7 @@ Portanto, insistir e confiar no
 próprio potencial torna-se o
 pensamento que me dá forças
 para acreditar na existência de
-uma chave correta.</p>
+uma chave correta.
 
 
 <!-- <img align="right" alt="Wesley Mina Github Stats" src="https://github-readme-stats.vercel.app/api?username=wesleymina&show_icons=true&hide_border=true" /> -->
@@ -25,16 +24,11 @@ uma chave correta.</p>
   <a href = "https://open.spotify.com/user/elwiq6y2xprr96cqd9sr9t1t1?si=ed3d0546f61546d3"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesleymina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+</p><img align="right" width="450" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
 
-<p align="center"<b>"Alguns desperdiçam ondas no desequilíbrio perdendo confiança na pausa do tempo. <br>Outros estão mais preparados quando elas retornam." (Minarketing)<br><img align="center" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
+<p align="center"<b>"Alguns desperdiçam ondas no desequilíbrio perdendo confiança na pausa do tempo. Outros estão mais preparados quando elas retornam." (Minarketing)<br><img align="center" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
 <img align="center" alt="Photoshop" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/photoshop.png" />
 <img align="center" alt="Illustrator" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/illustrator.png" /></b></p>
 
-<!-- ### Onde me encontrar?-->
   
-[website]: https://www.minarketing.com.br
-[twitter]: https://twitter.com/wesleyfmina
-[facebook]: https://pt-br.facebook.com/wesleyfmina
-[instagram]: https://www.instagram.com/wallpapersvivos/
-[linkedin]: https://www.linkedin.com/in/wesleymina/
 
