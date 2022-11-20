@@ -19,8 +19,13 @@ uma chave correta.
 
 </p><img align="right" width="450" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
 
-<p align="center"<b>"Alguns desperdiçam ondas no desequilíbrio perdendo confiança na pausa do tempo. Outros estão mais preparados quando elas retornam." (Minarketing)</p>
-
+<p align="center"<b>"Tenha coragem de seguir o que seu coração e sua intuiçâo dizem. Eles já sabem o que você realmente deseja. Todo resto é secundário." (Steve Jobs)</p>
+<div align="center"> 
+<img align="" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
+<img align="" alt="Photoshop" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/photoshop.png" />
+<img align="" alt="Illustrator" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/illustrator.png" />
+  </div>
+<br>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC0BIcwLOz2hUOCb4xMQxdrA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wallpapersvivos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,11 +35,7 @@ uma chave correta.
   <a href="https://www.linkedin.com/in/wesleymina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
-<div align="center"> 
-<img align="" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
-<img align="" alt="Photoshop" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/photoshop.png" />
-<img align="" alt="Illustrator" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/illustrator.png" />
-  </div>
+
 
   
 
