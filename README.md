@@ -17,8 +17,6 @@ uma chave correta.
 
 <p align="center">Perfil? Crítico 🧠 Hobby? Escrever ✍️ Vício? Games 🎮 Paixão? Estudo 🎓 Orgulho? Pais 👨‍👩‍👦‍👦 Grato? Saúde 💪🏼 Regra? Disciplina 👮🏽 Objetivo? Carreira 👨🏽‍💻 Sonho? Legado 💡 Mais? Conversemos 💬<br></p>
 
-</p><img align="right" width="450" height="100%" src="https://github.com/wesleymina/wesleymina/blob/main/images/banner.gif" alt="Assinatura de e-mail" />
-
 <p align="center"<b>"Tenha coragem de seguir o que seu coração e sua intuiçâo dizem. Eles já sabem o que você realmente deseja. Todo resto é secundário." (Steve Jobs)</p>
 <div align="center"> 
 <img align="" alt="Visual Studio Code" width="22px" src="https://github.com/wesleymina/wesleymina/blob/main/images/visualstudiocode.png" />
